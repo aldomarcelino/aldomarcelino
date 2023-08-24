@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldomarcelino
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
