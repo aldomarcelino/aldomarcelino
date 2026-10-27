@@ -1,36 +1,18 @@
 # Hi, I'm Aldo Marcelino 👋
 
-**Fullstack Software Engineer | Product Builder**
+**Full-Stack Software Engineer**
 
-I build web applications, scalable systems, and digital products that solve real-world problems.
+Based in Jakarta, Indonesia. I build web applications across frontend and backend, with experience in SaaS platforms, client projects, and products built with small teams.
 
-I'm passionate about turning ideas into functional products — from designing user experiences to building backend architectures and shipping production-ready applications.
+I focus on clear interfaces, reliable services, and maintainable code.
 
-### 🚀 What I Do
+### Tech Stack
 
-- 💻 Build fullstack web applications and SaaS products.
-- 🏗️ Design backend systems, APIs, and database architectures.
-- 🎨 Develop modern, responsive user interfaces.
-- 🧪 Explore product ideas, experiment with new technologies, and build in public.
+- **Frontend:** TypeScript, React, Next.js, Vue, Tailwind CSS
+- **Backend:** Node.js, NestJS, Go, REST APIs, GraphQL
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis
+- **Cloud & Delivery:** AWS, GCP, BytePlus, Vercel, Docker
 
-### 🛠️ Tech Stack
+### Connect
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
-- **Backend:** Go, Node.js, REST APIs
-- **Database:** PostgreSQL, MongoDb, MySql, Redis
-- **Tools:** Git, Docker
-
-### 🌱 Currently
-
-- Building products and improving my software engineering skills.
-- Exploring SaaS opportunities and product development.
-- Learning through building, experimenting, and shipping.
-
-### 🤝 Let's Connect
-
-- **GitHub:** [@aldomarcelino](https://github.com/aldomarcelino)
-- **Email:** [aldo115marcelino@gmail.com](mailto:aldo115marcelino@gmail.com)
-
----
-
-*Build things that matter. Keep learning. Keep shipping.*
+[LinkedIn](https://www.linkedin.com/in/aldo-marcelino-791bb5211/) · [Email](mailto:aldomarcelinolubis@gmail.com)
